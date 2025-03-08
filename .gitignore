@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 data/cifar-10-batches-py/
+
+*.pth
 # Distribution / packaging
 dist/
 build/
