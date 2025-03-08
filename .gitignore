@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+data/cifar-10-batches-py/
 # Distribution / packaging
 dist/
 build/
@@ -41,3 +41,4 @@ coverage.xml
 # Database
 *.db
 *.sqlite3
+data/cifar-10-python.tar.gz
